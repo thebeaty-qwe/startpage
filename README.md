@@ -1,8 +1,6 @@
 Startpage
 
----
-Credit to [peterrauscher](https://github.com/peterrauscher/startpage) for making this awsome startpage
----
+> Credit to [peterrauscher](https://github.com/peterrauscher/startpage) for making this awsome startpage
 
 An iTerm-inspired startpage page for faster web browsing. Because everything's better on the command line!
 ![Screenshot](/Screenshot.png)
