@@ -22,9 +22,9 @@ export default [
     category: "Work",
     color: "green",
     items: {
-      Linkedin: "https://linkedin.com",
+      Tuta: "https://mail.tutanota.com/mail/O94Pir6-0w-9",
       Twitter: "https://twitter.com",
-      Leetcode: "https://leetcode.com",
+      ente: "https://web.ente.io/gallery",
       Handshake: "https://app.joinhandshake.com/stu/postings",
       Indeed: "https://www.indeed.com/",
     },
