@@ -1,4 +1,4 @@
-Startpage
+# Startpage
 
 > Credit to [peterrauscher](https://github.com/peterrauscher/startpage) for making this awsome startpage
 
