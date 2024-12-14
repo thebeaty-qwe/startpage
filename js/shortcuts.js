@@ -4,9 +4,9 @@ export default [
     color: "cyan",
     items: {
       Github: "https://github.com",
-      AWS: "https://aws.amazon.com",
-      "Dev.to": "https://dev.to",
-      Firebase: "https://console.firebase.google.com/u/0",
+      Netlify: "https://www.netlify.com/",
+      Render: "https://render.com/",
+      Drive: "https://drive.google.com/drive",
     },
   },
   {
@@ -22,9 +22,9 @@ export default [
     category: "Work",
     color: "green",
     items: {
-      Tuta: "https://mail.tutanota.com/mail/O94Pir6-0w-9",
+      Tuta: "https://mail.tutanota.com/",
       Twitter: "https://twitter.com",
-      ente: "https://web.ente.io/gallery",
+      Ente: "https://web.ente.io/gallery",
       Handshake: "https://app.joinhandshake.com/stu/postings",
       Indeed: "https://www.indeed.com/",
     },
