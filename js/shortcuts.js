@@ -24,9 +24,9 @@ export default [
     items: {
       Tuta: "https://mail.tutanota.com/",
       Twitter: "https://twitter.com",
+      Reddit: "https://www.reddit.com/",
       Ente: "https://web.ente.io/gallery",
       ChatGPT: "https://chatgpt.com/",
-      Indeed: "https://www.indeed.com/",
     },
   },
   {
