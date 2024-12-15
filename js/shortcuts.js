@@ -25,7 +25,7 @@ export default [
       Tuta: "https://mail.tutanota.com/",
       Twitter: "https://twitter.com",
       Ente: "https://web.ente.io/gallery",
-      Handshake: "https://app.joinhandshake.com/stu/postings",
+      ChatGPT: "https://chatgpt.com/",
       Indeed: "https://www.indeed.com/",
     },
   },
